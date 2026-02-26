@@ -15,6 +15,6 @@ Run Commands in order (inside quotes, without them.)
 
 1: "cd react-dashboard"
 
-2: "npm run dev"
+2: "npm install"
 
-(If app couldn't run try "npm install")
+3: "npm run dev"
