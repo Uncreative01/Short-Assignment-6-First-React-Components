@@ -6,3 +6,15 @@ One screenshot is fine if you use them all on the same page.
 
 Spend some time on making them look as good as you can. Work those CSS muscles. 
 Keep the React simple for now. Go as far as using Props if you wish – but not necessary.
+
+How to Run:
+
+Open Terminal
+
+Run Commands in order (inside quotes, without them.)
+
+1: "cd react-dashboard"
+
+2: "npm run dev"
+
+(If app couldn't run try "npm install")
